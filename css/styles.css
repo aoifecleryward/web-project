@@ -5,5 +5,9 @@ body{
 }
 
 h1{
-  color: green
+  color: blue;
+}
+h2{
+  color: green;
+  font: times;
 }
